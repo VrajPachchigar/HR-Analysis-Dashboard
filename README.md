@@ -8,7 +8,7 @@ The dashboard is designed to assist HR teams in identifying critical factors tha
 and support strategic decision-making.
 
 ## Dataset Used
-
+<a href="https://github.com/VrajPachchigar/HR-Analysis-Dashboard/blob/main/HR_Analytics.csv">HR Dataset</a>
 
 ## 🛠 Tools Used
 
